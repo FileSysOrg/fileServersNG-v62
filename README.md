@@ -1,4 +1,8 @@
 # fileServersNG
+
+**Note: This project has been superseded by the `fileserversng` project which supports multiple versions
+of Alfresco (from 6.2 up to the latest 23.1)**
+
 The replacement Alfresco file servers subsystem based on the JFileServer file server code. 
 
 Builds the fileserversng-v62 AMP for Alfresco 6.2 using the Alfresco 4.1 SDK.
